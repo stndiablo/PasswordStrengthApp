@@ -19,3 +19,4 @@ This tool helps users create strong and secure passwords by evaluating strength 
    git clone https://github.com/stndiablo/PasswordStrengthApp.git
    cd PasswordStrengthApp
 
+
